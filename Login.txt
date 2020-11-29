@@ -1,2 +1,0 @@
-User: login@gmail.com
-Password: 12345
